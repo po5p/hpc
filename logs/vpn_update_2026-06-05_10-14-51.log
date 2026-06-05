@@ -1,0 +1,48 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║                    🔄 ЗАПУСК ОБНОВЛЕНИЯ                    ║
+║                    2026-06-05 10:14:51                    ║
+╚══════════════════════════════════════════════════════════════╝
+
+📋 Параметры:
+   GitHub:    po5p/hpc
+   HWID:      CB522960-E2A9-7A19-12CB-FD12FEC71E19
+   Лог:       2026-06-05_10-14-51
+
+📥 Скачиваю SubscriptionList.txt...
+   HTTP: 200, Размер: 154 байт
+   Содержимое:
+https://subscription.kotvpn.net/a3-phqwHJAbWjpsX|KotVpn
+https://sub.new-meme-connet.ru/cc7a8ebfb|MaxVpn1
+https://sub.new-meme-connet.ru/d8c44887a|MaxVpn2
+📥 Клонирую репозиторий...
+   Готово
+
+═══════════════════════════════════════════════════════════════
+📡 #1: KotVpn
+   Ссылка: https://subscription.kotvpn.net/a3-phqwHJAbWjpsX
+   Файл:   subscription.kotvpn.net_a3-phqwHJAbWjpsX_Subscription.txt
+   📥 Скачиваю...
+   HTTP: 200, Время: 0с, Размер: 877418 байт
+   📦 JSON (как есть)
+   ✅ 49 конфигов → subscription.kotvpn.net_a3-phqwHJAbWjpsX_Subscription.txt
+
+═══════════════════════════════════════════════════════════════
+📡 #2: MaxVpn1
+   Ссылка: https://sub.new-meme-connet.ru/cc7a8ebfb
+   Файл:   sub.new-meme-connet.ru_cc7a8ebfb_Subscription.txt
+   📥 Скачиваю...
+   HTTP: 200, Время: 0с, Размер: 5228 байт
+   📦 Base64 → vless + заголовки
+   ✅ 10 конфигов → sub.new-meme-connet.ru_cc7a8ebfb_Subscription.txt
+
+═══════════════════════════════════════════════════════════════
+📡 #3: MaxVpn2
+   Ссылка: https://sub.new-meme-connet.ru/d8c44887a
+   Файл:   sub.new-meme-connet.ru_d8c44887a_Subscription.txt
+   📥 Скачиваю...
+   HTTP: 200, Время: 0с, Размер: 5228 байт
+   📦 Base64 → vless + заголовки
+   ✅ 10 конфигов → sub.new-meme-connet.ru_d8c44887a_Subscription.txt
+
+💾 Сохраняю GotovVpn.txt...
