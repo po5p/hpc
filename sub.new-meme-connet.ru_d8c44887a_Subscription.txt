@@ -2,7 +2,7 @@
 #profile-update-interval: 2
 #support-url: https://t.me/freevpnconfigh
 #announce:
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#subscription-userinfo: upload=5987; download=6745; total=0; expire=0
 
 vless://ec102d3e-2cd2-11f1-9ec5-baabcd4be2cd@85.239.38.140:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.com&fp=chrome&pbk=72vSry0MUaXNZNjV_wt4wWLdXuI0HfIBvVhTrDWl8EU&sid=3a7f2e8b9c1d4e60#%F0%9F%87%A9%F0%9F%87%AA%20MaxVpn%20%7C%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F-2%20%F0%9F%9F%A2%20%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%B0
 vless://ec102d3e-2cd2-11f1-9ec5-baabcd4be2cd@5.42.99.168:2087?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.com&fp=chrome&pbk=72vSry0MUaXNZNjV_wt4wWLdXuI0HfIBvVhTrDWl8EU&sid=c4f8a2b6d9e1c573#%F0%9F%87%B3%F0%9F%87%B1%20MaxVpn%20%7C%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%9F%A2%20%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%B0
