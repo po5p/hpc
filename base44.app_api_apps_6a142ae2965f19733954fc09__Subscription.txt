@@ -3,8 +3,8 @@
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: Бесплатные подписки и конфигурации @freevpnconfigh
-#traffic-limit: ∞
-#traffic-remaining: ∞
+#announce:
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://c272d646-2da1-4b22-aa1f-1550a0ba3792@132.243.221.108:8443?mode=multi&security=reality&encryption=none&authority=&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&fp=qq&spx=%2F&allowinsecure=0&type=grpc&serviceName=max.ru&sni=max.ru&sid=ea1058117be12087#🇪🇺
 vless://c272d646-2da1-4b22-aa1f-1550a0ba3792@185.221.198.161:8443?mode=multi&security=reality&encryption=none&authority=&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=max.ru&sid=ea1058117be12087#🇩🇪
