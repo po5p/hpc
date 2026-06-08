@@ -5,6 +5,8 @@
 #announce: Бесплатные подписки и конфигурации @freevpnconfigh
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
+
+vless://Fluffy_VPN-s82RWlG3@51.250.41.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=2eyj2P27fWURICQda00QuLqXayzQel6tMOfGLAslf0U&host=api-maps.yandex.ru&fp=chrome&type=xhttp&sni=api-maps.yandex.ru#🇦🇱TELL
 vless://b92337e0-6819-4f17-a3cc-f860b138b27a@178.250.242.194:6443?security=reality&encryption=none&pbk=noR7PAxYWRRrbQywDahrBlTkbNuNFkMLCPcX-wfa5TY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=086007#RUSSIA_RKN
 vless://e8d0f687-b369-4071-9c9b-eb6c4359bf26@158.160.50.142:443?security=reality&encryption=none&pbk=_rt8kQJRlzuCHijtr4Ur7zpHiD9ct3eF7Z_bHNi4kV8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=c60bc58d#%F0%9F%87%AA%F0%9F%87%BA+O%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%231
 vless://5a983728-6c76-49ad-b226-9fd5bdc926c5@51.250.24.222:443?security=reality&encryption=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#%F0%9F%87%AA%F0%9F%87%BA+O%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%232
