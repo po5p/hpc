@@ -1,4 +1,4 @@
-#profile-title: MaxVpn1
+#profile-title: BS-OPERATOR
 #profile-update-interval: 2
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
