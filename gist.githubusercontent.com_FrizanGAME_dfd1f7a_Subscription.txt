@@ -1,0 +1,31 @@
+#profile-title: frizanVPN
+#profile-update-interval: 2
+#support-url: https://t.me/freevpnconfigh
+#profile-web-page-url: https://t.me/freevpnconfigh
+#announce: Бесплатные подписки и конфигурации @freevpnconfigh
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://9ad4f937-6366-474b-9d7e-e2a694deb4e2@pro-fi.emrata.top:753?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.amd.com&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#🇫🇮
+vless://509deb8a-8690-47f7-8b75-d951e0c52cda@51.250.106.87:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺
+vless://87c268c1-39c2-4941-b7dd-f825246827ff@nl2.prime-net.me:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl2.prime-net.me&pbk=qgQAQ19q2EhKzfolYMDsvTlmP9EAiCT8kng4uWR4QVg&sid=0a2d53503fdec721#🇳🇱
+vless://e438ed18-0208-4620-b7f4-56ba7045f397@72.56.14.245:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gb.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇨🇦
+vless://61e15e4a-4fb5-4b0d-b303-7616131c9e8e@free-de.moscow-neversleep.digital:753?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=free-de.moscow-neversleep.digital&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#🇩🇪
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c#🇩🇪
+vless://4a671c83-ecce-4356-8d9b-f679be93ad0b@8-node-midas.com:443?encryption=none&security=reality&sni=amd.com&fp=firefox&pbk=imiuPhoSx5whN6nFNssg1kvLOUNdJSS7aShm78VRBUo&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#🇸🇪
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c&type=tcp#🇳🇱
+vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.226:8443?encryption=none&security=reality&sni=loadtest.dev.urent.ru&fp=firefox&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&sid=3722621913893e97&type=grpc&serviceName=/api&mode=multi#🇷🇺
+vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.221:8443?encryption=none&security=reality&sni=sfera.x5.ru&fp=firefox&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&sid=3722621913893e97&type=grpc&serviceName=/api&mode=multi#🇷🇺
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c&type=tcp&flow=xtls-rprx-vision#🇷🇺
+vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?type=ws&host=s95410.cdn.ngenix.net&path=/storage&security=tls&sni=s95410.cdn.ngenix.net&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇱🇹
+ss://9ad4f937-6366-474b-9d7e-e2a694deb4e2@pro-fi.emrata.top:753?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.amd.com&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I#🇫🇮
+ss://509deb8a-8690-47f7-8b75-d951e0c52cda@51.250.106.87:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺
+ss://87c268c1-39c2-4941-b7dd-f825246827ff@nl2.prime-net.me:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl2.prime-net.me&pbk=qgQAQ19q2EhKzfolYMDsvTlmP9EAiCT8kng4uWR4QVg&sid=0a2d53503fdec721#🇳🇱
+ss://e438ed18-0208-4620-b7f4-56ba7045f397@72.56.14.245:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gb.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇨🇦
+ss://61e15e4a-4fb5-4b0d-b303-7616131c9e8e@free-de.moscow-neversleep.digital:753?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=free-de.moscow-neversleep.digital&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#🇩🇪
+ss://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c#🇩🇪
+ss://4a671c83-ecce-4356-8d9b-f679be93ad0b@8-node-midas.com:443?encryption=none&security=reality&sni=amd.com&fp=firefox&pbk=imiuPhoSx5whN6nFNssg1kvLOUNdJSS7aShm78VRBUo&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#🇸🇪
+ss://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c&type=tcp#🇳🇱
+ss://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.226:8443?encryption=none&security=reality&sni=loadtest.dev.urent.ru&fp=firefox&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&sid=3722621913893e97&type=grpc&serviceName=/api&mode=multi#🇷🇺
+ss://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.221:8443?encryption=none&security=reality&sni=sfera.x5.ru&fp=firefox&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&sid=3722621913893e97&type=grpc&serviceName=/api&mode=multi#🇷🇺
+ss://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c&type=tcp&flow=xtls-rprx-vision#🇷🇺
+ss://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?type=ws&host=s95410.cdn.ngenix.net&path=/storage&security=tls&sni=s95410.cdn.ngenix.net&alpn=h2,http/1.1&fp=firefox&allowInsecure=0#🇱🇹
