@@ -5,7 +5,7 @@
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
 #subscription-userinfo: upload:0; download=999677667766746; total=9999678888888867; expire=0
 
-
+vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.254:8443?mode=gun&security=reality&encryption=none&authority=&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&fp=firefox&allowinsecure=0&type=grpc&serviceName=%2Fapi&sni=loadtest.dev.urent.ru&sid=3722621913893e97#ВРЕМЕННО-НЕ-РАБОТАЕТ
 
 vless://b92337e0-6819-4f17-a3cc-f860b138b27a@178.250.242.194:6443?security=reality&encryption=none&pbk=noR7PAxYWRRrbQywDahrBlTkbNuNFkMLCPcX-wfa5TY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=086007#RUSSIA_RKN
 vless://b92337e0-6819-4f17-a3cc-f860b138b27a@178.250.242.194:6443?security=reality&encryption=none&pbk=noR7PAxYWRRrbQywDahrBlTkbNuNFkMLCPcX-wfa5TY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=086007#@freevpnconfigh
