@@ -1,9 +1,10 @@
 #profile-title: BsOPERATORs
-#profile-update-interval: 2
+#profile-update-interval: 1
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: Бесплатные подписки и конфигурации @freevpnconfigh
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#subscription-userinfo: upload=0; download=0; total=994086134698; expire=0
+
 vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=de4158854173e0e8#lte456
 
 vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=de4158854173e0e8#e4158854173e0e8#l443211c6-8ebb-4676-b796-f3a3a94c38a6@188c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=U-XSSJrvKlc1ivt8T_TESHQ7IzjPoKnGg7dGS1N9QEY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.ru&sid=b980bb2ea0e081ac#vpn90
