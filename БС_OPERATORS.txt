@@ -3,7 +3,7 @@
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ❗. ВНИМАНИЕ: НЕ НАГРУЖАЙТЕ СЕРВЕРА ТОРЕНД ТРАФИКОМ❗. ВНИМАНИЕ: НЕ ИСПОЛЬЗУЙТЕ СЕРВЕРА ПРОСТО ТАК❗. ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ В РАЗУМНЫХ ЦЕЛЯХ❗. ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ПО НАЗНАЧЕНИЮ❗. ВНИМАНИЕ: ЕСЛИ ПОДПИСКА БЕСПЛАТНАЯ, ЭТО НЕ ОЗНАЧАЕТ, ЧТО ЕЕ МОЖНО ИСПОЛЬЗОВАТЬ КАК ВЗДУМАЕТСЯ❗.  Бесплатные конфигурации ➡️@freevpnconfigh⬅️
-#subscription-userinfo: upload:6256221162044; download=6256221162044; total=28587302322176; expire=0
+#subscription-userinfo: upload:6956229962044; download=69562299162044; total=28587302322176; expire=0
 
 
 vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=de4158854173e0e8#lte456
