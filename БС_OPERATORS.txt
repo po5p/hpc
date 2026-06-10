@@ -1,12 +1,12 @@
-#profile-title: BsOPERATORs
+#profile-title: БС-ОБХОД @freevpnconfigh
 #profile-update-interval: 1
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
-#announce: Бесплатные подписки и конфигурации @freevpnconfigh
+#announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ. ВНИМАНИЕ: НЕ НАГРУЖАЙТЕ СЕРВЕРА ТОРЕНД ТРАФИКОМ. ВНИМАНИЕ: НЕ ИСПОЛЬЗУЙТЕ СЕРВЕРА ПРОСТО ТАК. ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ В РАЗУМНЫХ ЦЕЛЯХ. ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ПО НАЗНАЧЕНИЮ. ВНИМАНИЕ: ЕСЛИ ПОДПИСКА БЕСПЛАТНАЯ, ЭТО НЕ ОЗНАЧАЕТ, ЧТО ЕЕ МОЖНО ИСПОЛЬЗОВАТЬ КАК ВЗДУМАЕТСЯ. 
 #subscription-userinfo: upload:6256221162044; download=6256221162044; total=28587302322176; expire=0
 
-vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=de4158854173e0e8#lte456
 
+vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=de4158854173e0e8#lte456
 vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=de4158854173e0e8#e4158854173e0e8#l443211c6-8ebb-4676-b796-f3a3a94c38a6@188c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=U-XSSJrvKlc1ivt8T_TESHQ7IzjPoKnGg7dGS1N9QEY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.ru&sid=b980bb2ea0e081ac#vpn90
 vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@37.9.4.147:443?security=reality&encryption=none&pbk=fLBaSnICDNyn0zZ-YqzdnoE9ZrlXZ7F7bXH46WkuGEI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=a443211c6-8ebb-4676-b796-f3a3a94c38a6@188c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=U-XSSJrvKlc1ivt8T_TESHQ7IzjPoKnGg7dGS1N9QEY&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.ru&sid=b980bb2ea0e081ac#vpn99
 vless://443211c6-8ebb-4676-b796-f3a3a94c38a6@188.68.218.190:443?security=reality&encryption=none&pbk=CfR6qJ1nbTh-fEQ6F21VYHXfSwdaqcEZwTwmCRcUxnA&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&sid=de4158854173e0e8#65VPNFREE
