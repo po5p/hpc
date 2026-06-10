@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
-#announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
+#announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
 #subscription-userinfo: upload:0; download=98677667766746; total=9999678888888867; expire=0
 
 
