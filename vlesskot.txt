@@ -3,7 +3,7 @@
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, ТРАФИК ОГРАНИЧЕН.
-#subscription-userinfo: upload=0; download=33109551314; total=214748364800; expire=1799628341
+#subscription-userinfo: upload=0; download=33167991651; total=214748364800; expire=1799628341
 
 vless://71078883-daaa-4890-8a27-c64ee942b81a@nlwifinew.kotvpn.net:8443?encryption=none&security=reality&pbk=PYDZtcMe9SsXXNB2ixS0O_n8AMznwMFEvRm2-4EWQxE&sid=f83e19dcd7734c89&sni=yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision&headerType=none&allowinsecure=0#proxy
 vless://71078883-daaa-4890-8a27-c64ee942b81a@dewifinew.kotvpn.net:8443?encryption=none&security=reality&pbk=iITd4I5MlZT0vgdiZHMAO36rS7GG-useUAoG85hJrVg&sid=ab2729898c949868&sni=eh.vk.com&fp=qq&type=tcp&flow=xtls-rprx-vision&headerType=none&allowinsecure=0#germany
