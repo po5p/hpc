@@ -3,7 +3,7 @@
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
-#subscription-userinfo: upload:0; download=999999997766746; total=99999678888888867; expire=0
+#subscription-userinfo: upload:0; download=89999999999999; total=99999678888888867; expire=0
 
 vless://09b9cc23-78e2-41dc-99e9-b3853aa70b36@84.201.179.148:8443?security=reality&encryption=none&pbk=fSthdDnrlJEusfddcwvxRp7mOr8QgnmZgWiozX_4HQs&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+14
 
