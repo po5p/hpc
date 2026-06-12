@@ -3,28 +3,17 @@
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
-#subscription-userinfo: upload:0; download=999999667766746; total=97999678888888867; expire=0
+#subscription-userinfo: upload:0; download=999999997766746; total=99999678888888867; expire=0
 
 
-vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@est01.port-server.online:443?security=reality&encryption=none&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=est01.port-server.online&sid=9902cda1645757ea#g
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1-2.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=e0d3c131423a84da.itx-server.digital#b
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l10.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#y
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1-2.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=firefox&allowinsecure=0&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#q
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l10.l-itx.info:443?mode=stream-up&path=%2Fxh&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&host=yandex.by&fp=firefox&allowinsecure=0&type=xhttp&sni=yandex.by#l
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1-2.l-itx.info:443?mode=stream-up&path=%2Fxh&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&host=yandex.by&fp=firefox&allowinsecure=0&type=xhttp&sni=yandex.by#pl
-vless://088d5e74-56de-413e-93e6-42981c4543b9@217.16.22.239:9445?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#s
-vless://088d5e74-56de-413e-93e6-42981c4543b9@217.16.22.252:9445?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#w
+vless://abd7ab43-fe2e-1811-8c40-ee6a1b892652@62.152.59.101:443?mode=packet-up&path=%2Fxhttppath%2F&security=tls&encryption=none&alpn=h3&fp=qq&allowinsecure=0&type=xhttp&sni=wl-hos-1.bnc-gates-1.co.uk#vpn22
+vless://abd7ab43-fe2e-0ac9-8c40-ee6a1b892652@62.152.59.101:443?mode=packet-up&path=%2Fxhttppath%2F&security=tls&encryption=none&alpn=h3&host=wl-hos-1.bnc-gates-1.co.uk&fp=qq&allowinsecure=0&type=xhttp&sni=wl-hos-1.bnc-gates-1.co.uk#vpn32
+
+vless://abd7ab43-fe2e-099d-8c40-ee6a1b892652@62.152.59.101:443?mode=packet-up&path=%2Fxhttppath%2F&security=tls&encryption=none&alpn=h3&fp=qq&allowinsecure=0&type=xhttp&sni=wl-hos-1.bnc-gates-1.co.uk#vpn33
+
+vless://abd7ab43-fe2e-20d1-8c40-ee6a1b892652@62.152.59.101:443?mode=packet-up&path=%2Fxhttppath%2F&security=tls&encryption=none&alpn=h3&fp=qq&allowinsecure=0&type=xhttp&sni=wl-hos-1.bnc-gates-1.co.uk#vpn99
+
 vless://b92337e0-6819-4f17-a3cc-f860b138b27a@178.250.242.194:6443?security=reality&encryption=none&pbk=noR7PAxYWRRrbQywDahrBlTkbNuNFkMLCPcX-wfa5TY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=086007#RUSSIA_RKN
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@185.229.9.38:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#1
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@185.229.9.38:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#2
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@185.229.9.38:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%D0%A0%D0%A3%D0%9D%D0%95%D0%A2
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@62.152.56.159:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#ТСПУ 
+
 vless://b92337e0-6819-4f17-a3cc-f860b138b27a@178.250.242.194:6443?security=reality&encryption=none&pbk=noR7PAxYWRRrbQywDahrBlTkbNuNFkMLCPcX-wfa5TY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=086007#t.me%2F%40freevpnconfigh
-
-vless://088d5e74-56de-413e-93e6-42981c4543b9@217.16.22.184:9445?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#n/a
-vless://088d5e74-56de-413e-93e6-42981c4543b9@217.16.22.184:9444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#m
-vless://088d5e74-56de-413e-93e6-42981c4543b9@217.16.22.252:9444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#x
-vless://088d5e74-56de-413e-93e6-42981c4543b9@217.16.22.239:9444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#c
-
-
 
