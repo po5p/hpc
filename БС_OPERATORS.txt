@@ -3,7 +3,8 @@
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
-#subscription-userinfo: upload:0; download=vless://6c0ea709-5cbe-487e-990b-f660955d039d@hole3.datanode-internal.net:9443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=abbcd128#проблема-с-названиями
+
+vless://6c0ea709-5cbe-487e-990b-f660955d039d@hole3.datanode-internal.net:9443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=abbcd128#проблема-с-названиями
 vless://d7c2c036-5e3b-41ab-becf-0cf6e5b853a0@31.129.42.156:6443?mode=gun&security=reality&encryption=none&authority=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&sid=5c766813929a1fdd#❤️
 vless://d7c2c036-5e3b-41ab-becf-0cf6e5b853a0@31.129.42.224:6443?mode=gun&security=reality&encryption=none&authority=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&sid=5c766813929a1fdd#привет 
 vless://51c5542a-8681-44ac-8254-97c6b2d19378@37.220.163.233:443?encryption=none&security=tls&sni=s95692.cdn.ngenix.net&fp=chrome&type=ws&path=%2Fv1%2Fdata%2Fsync%2F&headerType=none&allowinsecure=0proxy
