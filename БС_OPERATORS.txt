@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
 
-
+vless://19d01ad7-cb03-45ef-9c8b-dafac37a7f1f@yc.framecdn.ru:443?encryption=none&security=tls&sni=yc.framecdn.ru&fp=firefox&type=xhttp&flow=&headerType=none&allowinsecure=0proxy#👨‍💻
 vless://a3913a91-236e-4ef8-9822-e367bb8b05b2@46.243.142.122:443?security=reality&encryption=none&pbk=B8ekmOgk9QTnXJJOR_4lDSUapa7PZvV2E37l1Nm4lxk&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=f497fe3dff69ff78#%F0%9F%87%AB%F0%9F%87%B9+obhod+bpla
 
 vless://676314b2-342b-4f88-95a2-0e9d2edb7597@flight4.oaklandjoseph.top:443?mode=auto&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-four%2F&security=tls&encryption=none&alpn=h2&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A%223%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=flight4.oaklandjoseph.top&fp=qq&allowinsecure=0&type=xhttp&sni=flight4.oaklandjoseph.top#FREE+VPN+%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%F0%9F%8C%90%28VPN%29+1
