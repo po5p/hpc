@@ -1,5 +1,5 @@
 #profile-title: БС-ОБХОД
-#profile-update-interval: 1
+#profile-update-interval: 3
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
