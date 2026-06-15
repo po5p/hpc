@@ -1,4 +1,4 @@
-#profile-title: БС-ОБХОД
+#profile-title: БС-ОБХОД_(стабильная)
 #profile-update-interval: 3
 #support-url: https://t.me/freevpnconfigh
 #profile-web-page-url: https://t.me/freevpnconfigh
