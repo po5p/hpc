@@ -1,8 +1,0 @@
-vless://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#Похоже,
-vless://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#Если
-vless://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#И
-vless://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#Нажмите
-ss://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#Похоже,
-ss://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#Если
-ss://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#И
-ss://1@1.1.1.1:11?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=some.thing&fp=chrome&pbk=11&sid=11#Нажмите
