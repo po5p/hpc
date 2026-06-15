@@ -4,6 +4,7 @@
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
 
+vless://cdd9d276-54a4-4bae-bf97-e51eb96cfd18@cbs-ru.pool-a.netcenter-cdn.com:443?security=reality&encryption=none&pbk=JFP8P3KZ3p_tXz0k0VORo3K8sgb3HD_F_O969OYgzkY&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.pool-a.pools.netcenter-cdn.com&sid=86dedb#FREE+VPN+%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%F0%9F%8C%90%28VPN%29+1
 
 vless://ea11100e-6d41-4811-9041-128d3404b7ad@31.129.42.210:6443?mode=gun&security=reality&encryption=none&authority=&pbk=Jx3-T6hnOqY0JL3XrKReYOZk7XAcHr-julwYzBcXzj0&fp=chrome&allowinsecure=0&type=grpc&serviceName=xyz&sni=ads.x5.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+WHITE+2
 
