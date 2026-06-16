@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="theme-color" content="#050a18"/>
+<meta name="robots" content="noindex,nofollow"/>
+<title>ChunkyVPN · trial_867</title>
+<link rel="icon" type="image/svg+xml" href="https://chunkyvpn.shop/static/logo.svg"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+:root{--bg:#050a18;--bg2:#0a1128;--card:rgba(10,17,40,0.82);--border:rgba(255,255,255,0.07);
+--border-h:rgba(255,255,255,0.13);--text:#eaf0ff;--dim:rgba(210,220,240,0.7);
+--muted:rgba(170,185,210,0.45);--accent:#60a5fa;--accent2:#2563eb;--radius:32px}
+html{background:var(--bg);scrollbar-width:none;scroll-behavior:smooth}
+html::-webkit-scrollbar{display:none}
+body{min-height:100vh;font-family:'Inter',system-ui,sans-serif;color:var(--text);overflow-x:hidden}
+#particles-canvas{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.7}
+body::before{content:"";position:fixed;inset:0;z-index:-1;
+background:radial-gradient(ellipse 80% 50% at 20% 0%,rgba(37,99,235,0.12),transparent 50%),
+radial-gradient(ellipse 60% 40% at 80% 100%,rgba(56,189,248,0.08),transparent 50%),
+radial-gradient(ellipse 50% 50% at 50% 50%,rgba(96,165,250,0.06),transparent 60%),
+linear-gradient(180deg,#050a18,#0a1128 40%,#070e24 80%,#050a18)}
+.shell{position:relative;z-index:1;width:100%;max-width:520px;margin:0 auto;padding:40px 20px 60px}
+.brand-row{display:flex;align-items:center;justify-content:center;gap:10px;margin-bottom:28px}
+.brand-logo{height:36px;width:auto;object-fit:contain}
+.brand-name{font-size:17px;font-weight:700;letter-spacing:-0.03em;color:#fff}
+.card{padding:28px 24px;border-radius:var(--radius);background:var(--card);
+border:1px solid var(--border);margin-bottom:16px;position:relative;overflow:hidden}
+.card::before{content:"";position:absolute;top:-40%;right:-20%;width:60%;height:120%;
+background:radial-gradient(ellipse,rgba(37,99,235,0.08),transparent 60%);pointer-events:none}
+.card-title{font-size:14px;font-weight:600;color:var(--muted);margin-bottom:16px;text-transform:uppercase;letter-spacing:0.05em}
+.user-row{display:flex;align-items:center;gap:14px;margin-bottom:20px}
+.user-avatar{width:48px;height:48px;border-radius:50%;background:linear-gradient(135deg,var(--accent2),var(--accent));
+display:grid;place-items:center;font-size:20px;font-weight:700;color:#fff;flex-shrink:0}
+.user-name-wrap{flex:1;min-width:0}
+.user-name{font-size:20px;font-weight:700;color:#fff;letter-spacing:-0.03em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.user-sub{font-size:13px;color:var(--dim);margin-top:2px}
+.status-badge{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:999px;font-size:12px;font-weight:600;flex-shrink:0}
+.status-badge.active{color:#86efac;border:1px solid rgba(134,239,172,0.25);background:rgba(134,239,172,0.08)}
+.status-badge.inactive{color:#fca5a5;border:1px solid rgba(252,165,165,0.25);background:rgba(252,165,165,0.08)}
+.status-dot{width:8px;height:8px;border-radius:50%;background:currentColor;box-shadow:0 0 8px currentColor}
+.stats-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+.stat-item{padding:14px;border-radius:24px;background:rgba(255,255,255,0.03);border:1px solid var(--border)}
+.stat-label{font-size:11px;font-weight:600;color:var(--muted);margin-bottom:6px;text-transform:uppercase;letter-spacing:0.04em}
+.stat-value{font-size:20px;font-weight:700;color:#fff;letter-spacing:-0.03em}
+.stat-value.small{font-size:14px}
+.wl-row{margin-top:12px;display:flex;align-items:center;justify-content:space-between;gap:10px;
+padding:14px 16px;border-radius:24px;background:rgba(96,165,250,0.06);border:1px solid rgba(96,165,250,0.15)}
+.wl-row-label{font-size:12px;font-weight:600;color:var(--accent);text-transform:uppercase;letter-spacing:0.04em}
+.wl-row-val{font-size:15px;font-weight:700;color:#fff}
+.actions-grid{display:grid;gap:10px}
+.action-btn{appearance:none;border:none;border-radius:999px;padding:14px 20px;cursor:pointer;
+font-weight:600;font-size:14px;transition:all .2s ease;display:flex;align-items:center;gap:10px;
+font-family:inherit;position:relative;overflow:hidden}
+.action-btn:disabled{opacity:.5;cursor:not-allowed}
+.action-btn.primary{background:rgba(220,38,38,0.85);color:#fff}
+.action-btn.secondary{background:rgba(255,255,255,0.05);color:var(--text);border:1px solid var(--border)}
+.action-btn.secondary:hover:not(:disabled){border-color:var(--border-h);background:rgba(255,255,255,0.08)}
+.action-btn.danger{background:rgba(220,38,38,0.12);color:#fca5a5;border:1px solid rgba(252,165,165,0.15)}
+.action-btn.danger:hover:not(:disabled){background:rgba(220,38,38,0.2)}
+.action-icon{width:20px;height:20px;flex-shrink:0;opacity:.8}
+.action-text{flex:1;text-align:left}
+.action-arrow{margin-left:auto;opacity:.4;font-size:16px}
+.sub-url-row{display:flex;align-items:center;gap:8px;padding:12px 16px;border-radius:999px;
+background:rgba(255,255,255,0.03);border:1px solid var(--border);cursor:pointer;transition:border-color .2s}
+.sub-url-row:hover{border-color:var(--border-h)}
+.sub-url-text{flex:1;font-size:13px;color:var(--dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sub-url-copy{font-size:12px;font-weight:600;color:var(--accent);white-space:nowrap}
+.devices-empty{text-align:center;padding:30px 16px;color:var(--dim);font-size:13px}
+.modal-overlay{position:fixed;inset:0;z-index:100;background:transparent;backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+display:flex;align-items:center;justify-content:center;padding:20px;opacity:0;pointer-events:none;transition:opacity .25s}
+.modal-overlay.visible{opacity:1;pointer-events:auto}
+.modal-box{width:100%;max-width:520px;max-height:85vh;border-radius:var(--radius);
+background:rgba(10,17,40,0.55);backdrop-filter:blur(40px);-webkit-backdrop-filter:blur(40px);border:1px solid rgba(255,255,255,0.1);overflow:hidden;
+display:flex;flex-direction:column;
+transform:scale(0.95) translateY(10px);opacity:0;transition:transform .3s ease,opacity .3s ease}
+.modal-overlay.visible .modal-box{transform:scale(1) translateY(0);opacity:1}
+.modal-header{display:flex;align-items:center;justify-content:space-between;padding:24px 24px 16px;flex-shrink:0}
+.modal-title{font-size:16px;font-weight:700;color:#fff}
+.modal-close{appearance:none;border:none;background:rgba(255,255,255,0.08);border-radius:50%;
+width:36px;height:36px;display:grid;place-items:center;cursor:pointer;transition:background .2s}
+.modal-close:hover{background:rgba(255,255,255,0.15)}
+.modal-close svg{width:16px;height:16px;stroke:#fff;fill:none;stroke-width:2}
+.modal-body{padding:0 24px 24px;overflow-y:auto;flex:1;min-height:0}
+.device-item{display:flex;align-items:center;gap:12px;padding:14px 16px;border-radius:24px;
+background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.08);margin-bottom:8px;transition:border-color .2s,opacity .25s}
+.device-icon-wrap{width:38px;height:38px;border-radius:14px;background:rgba(96,165,250,0.08);
+display:grid;place-items:center;flex-shrink:0;color:var(--accent)}
+.device-icon-wrap svg{width:20px;height:20px}
+.device-info{flex:1;min-width:0}
+.device-name{font-size:14px;font-weight:600;color:#fff}
+.device-meta{font-size:12px;color:var(--muted);margin-top:2px}
+.device-delete{appearance:none;border:none;background:rgba(239,68,68,0.15);border-radius:50%;
+width:34px;height:34px;display:grid;place-items:center;cursor:pointer;transition:background .2s;flex-shrink:0;color:#ef4444}
+.device-delete:hover{background:rgba(239,68,68,0.3)}
+.device-delete svg{width:15px;height:15px;stroke:#ef4444;fill:none;stroke-width:2.4}
+.wl-sep{margin:14px 0 10px;text-align:center;font-size:11px;font-weight:600;color:var(--accent);text-transform:uppercase;letter-spacing:0.06em}
+.toast-container{position:fixed;bottom:24px;right:24px;z-index:2000;display:flex;flex-direction:column;align-items:flex-end;gap:10px;pointer-events:none}
+.toast{pointer-events:auto;padding:14px 24px;border-radius:999px;backdrop-filter:blur(20px);
+box-shadow:0 8px 32px rgba(0,0,0,0.4);text-align:center;max-width:380px;min-width:160px;
+animation:toastIn .35s ease;transition:opacity .3s,transform .3s;font-size:14px}
+.toast.toast-success{background:rgba(5,150,105,0.9);border:1px solid rgba(52,211,153,0.4);color:#fff}
+.toast.toast-error{background:rgba(220,38,38,0.9);border:1px solid rgba(252,165,165,0.4);color:#fff}
+@keyframes toastIn{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.footer-note{text-align:center;margin-top:8px;font-size:12px;color:var(--muted)}
+.footer-note a{color:var(--accent);text-decoration:none}
+.footer-note a:hover{text-decoration:underline}
+@media(max-width:480px){.shell{padding:24px 16px 48px}.card{padding:22px 18px}.modal-box{max-height:90vh}}
+</style>
+</head>
+<body>
+<canvas id="particles-canvas"></canvas>
+<div class="shell">
+<div class="brand-row">
+<img src="https://chunkyvpn.shop/static/logo.svg" class="brand-logo" alt=""/><span class="brand-name">ChunkyVPN</span>
+</div>
+
+<div class="card">
+<div class="card-title">Информация о подписке</div>
+<div class="user-row">
+<div class="user-avatar">T</div>
+<div class="user-name-wrap">
+<div class="user-name">trial_867</div>
+<div class="user-sub">Информация о подписке</div>
+</div>
+<div class="status-badge active"><span class="status-dot"></span><span>Активен</span></div>
+</div>
+<div class="stats-grid">
+<div class="stat-item"><div class="stat-label">Осталось дней</div><div class="stat-value">1545 д.</div></div>
+<div class="stat-item"><div class="stat-label">Использовано трафика</div><div class="stat-value small">33.90 GiB / 1.00 TiB</div></div>
+<div class="stat-item"><div class="stat-label">Дата окончания</div><div class="stat-value small">08.09.2030 18:35</div></div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-title">Информация о подписке</div>
+<div class="sub-url-row" id="copy-url-row" title="Copy">
+<span class="sub-url-text" id="sub-url-text">telemetry.chunkyvpn.shop/k9Fz98VU85L-0y6z</span>
+<span class="sub-url-copy">Копировать</span>
+</div>
+</div>
+
+<div class="card">
+<div class="card-title">Управление</div>
+<div class="actions-grid">
+<button class="action-btn secondary" id="btn-devices">
+<svg class="action-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+<span class="action-text">Подключенные устройства</span>
+<span class="action-arrow">›</span>
+</button>
+<button class="action-btn danger" id="btn-revoke">
+<svg class="action-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 4v6h6"/><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/></svg>
+<span class="action-text">Перевыпустить подписку</span>
+<span class="action-arrow">›</span>
+</button>
+</div>
+</div>
+
+<div class="footer-note">
+<a href="https://chunkyvpn.shop" target="_blank" rel="noopener noreferrer">chunkyvpn.shop</a> · <a href="https://t.me/chunkyhelp_bot" target="_blank" rel="noopener noreferrer">@chunkyhelp_bot</a>
+</div>
+</div>
+
+<!-- Devices modal -->
+<div class="modal-overlay" id="devices-modal">
+<div class="modal-box">
+<div class="modal-header">
+<span class="modal-title">Подключенные устройства <span id="devices-count">(1)</span></span>
+<button class="modal-close" id="devices-modal-close"><svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+</div>
+<div class="modal-body" id="devices-list">
+<div class="device-item" data-hwid="F26D28CD675ECCF7"><div class="device-icon-wrap"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg></div><div class="device-info"><div class="device-name">Nothing A059</div><div class="device-meta">Android / Android 16</div><div class="device-meta">активность: 27 минут назад</div></div></div></div>
+</div>
+</div>
+
+<!-- Confirm dialog -->
+<div class="modal-overlay" id="confirm-overlay">
+<div class="modal-box" style="max-width:400px;padding:28px 24px;text-align:center">
+<div style="font-size:18px;font-weight:700;color:#fff;margin-bottom:8px" id="confirm-title"></div>
+<div style="font-size:14px;color:var(--dim);line-height:1.5;margin-bottom:20px" id="confirm-text"></div>
+<div style="display:flex;gap:10px">
+<button class="action-btn secondary" id="confirm-cancel" style="flex:1;justify-content:center">Отмена</button>
+<button class="action-btn primary" id="confirm-ok" style="flex:1;justify-content:center">Подтвердить</button>
+</div>
+</div>
+</div>
+
+<div class="toast-container" id="toast-container"></div>
+<script>
+(function(){const c=document.getElementById('particles-canvas');if(!c)return;const ctx=c.getContext('2d');let W,H;const pts=[];
+function rs(){W=c.width=innerWidth;H=c.height=innerHeight}rs();addEventListener('resize',rs);
+for(let i=0;i<90;i++)pts.push({x:Math.random()*W,y:Math.random()*H,r:Math.random()*1.3+.3,dx:(Math.random()-.5)*.18,dy:(Math.random()-.5)*.18,o:Math.random()*.6+.2});
+(function f(){ctx.clearRect(0,0,W,H);pts.forEach(p=>{p.x+=p.dx;p.y+=p.dy;if(p.x<0)p.x=W;if(p.x>W)p.x=0;if(p.y<0)p.y=H;if(p.y>H)p.y=0;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,6.28);ctx.fillStyle=`rgba(96,165,250,${p.o})`;ctx.fill()});requestAnimationFrame(f)})()})();
+const $=s=>document.querySelector(s);
+function toast(m,t='success'){const c=$('#toast-container'),e=document.createElement('div');e.className='toast toast-'+t;e.textContent=m;c.appendChild(e);setTimeout(()=>{e.style.opacity='0';e.style.transform='translateY(20px)';setTimeout(()=>e.remove(),350)},2400)}
+const subUrl="http:\/\/telemetry.chunkyvpn.shop\/k9Fz98VU85L-0y6z";
+$('#copy-url-row').onclick=()=>navigator.clipboard.writeText(subUrl).then(()=>toast('Ссылка скопирована')).catch(()=>toast('Не удалось скопировать','error'));
+const dm=$('#devices-modal');
+$('#btn-devices').onclick=()=>{dm.classList.add('visible');document.body.style.overflow='hidden'};
+$('#devices-modal-close').onclick=()=>{dm.classList.remove('visible');document.body.style.overflow=''};
+dm.onclick=e=>{if(e.target===dm){dm.classList.remove('visible');document.body.style.overflow=''}};
+function chunkyDelHwid(btn){
+  const card=btn.closest('[data-hwid]');const hwid=card&&card.getAttribute('data-hwid');if(!hwid)return;
+  btn.disabled=true;const fd=new FormData();fd.append('hwid',hwid);if(card.getAttribute('data-wl')==='1')fd.append('wl','1');
+  const sep=location.search?'&':'?';const url=location.pathname+location.search+sep+'action=delete_hwid';
+  fetch(url,{method:'POST',body:fd}).then(r=>r.json()).then(d=>{
+    if(d.ok){card.style.opacity='0';setTimeout(()=>{card.remove();const left=document.querySelectorAll('#devices-list .device-item').length;$('#devices-count').textContent=left?'('+left+')':'';if(!left)$('#devices-list').innerHTML='<div class="devices-empty">—</div>'},260);toast('Устройство удалено')}
+    else{btn.disabled=false;toast('Ошибка: '+(d.error||'?'),'error')}
+  }).catch(()=>{btn.disabled=false;toast('Ошибка сети','error')});
+}
+window.chunkyDelHwid=chunkyDelHwid;
+// confirm dialog
+let _cb=null;const co=$('#confirm-overlay');
+function confirmAction(title,text,cb){$('#confirm-title').textContent=title;$('#confirm-text').textContent=text;_cb=cb;co.classList.add('visible');document.body.style.overflow='hidden'}
+$('#confirm-cancel').onclick=()=>{co.classList.remove('visible');document.body.style.overflow='';_cb=null};
+$('#confirm-ok').onclick=()=>{co.classList.remove('visible');document.body.style.overflow='';if(_cb)_cb();_cb=null};
+co.onclick=e=>{if(e.target===co){co.classList.remove('visible');document.body.style.overflow='';_cb=null}};
+// revoke (ревокает основного + WL)
+$('#btn-revoke').onclick=()=>confirmAction('Перевыпустить подписку?','Текущая ссылка и ключи (включая белые списки) перестанут работать. Вы получите новую ссылку.',async()=>{
+  const sep=location.search?'&':'?';
+  try{
+    const r=await fetch(location.pathname+location.search+sep+'action=revoke',{method:'POST'});
+    const d=await r.json();
+    if(d.ok&&d.newShortUuid){toast('Подписка перевыпущена');setTimeout(()=>location.href=d.manageUrl||('/'+d.newShortUuid),700)}
+    else{toast('Ошибка: '+(d.error||'?'),'error')}
+  }catch(e){toast('Ошибка сети','error')}
+});
+</script>
+</body>
+</html>
