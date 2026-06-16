@@ -173,7 +173,7 @@ animation:toastIn .35s ease;transition:opacity .3s,transform .3s;font-size:14px}
 <button class="modal-close" id="devices-modal-close"><svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
 </div>
 <div class="modal-body" id="devices-list">
-<div class="device-item" data-hwid="F26D28CD675ECCF7"><div class="device-icon-wrap"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg></div><div class="device-info"><div class="device-name">Nothing A059</div><div class="device-meta">Android / Android 16</div><div class="device-meta">активность: 29 минут назад</div></div></div></div>
+<div class="device-item" data-hwid="F26D28CD675ECCF7"><div class="device-icon-wrap"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg></div><div class="device-info"><div class="device-name">Nothing A059</div><div class="device-meta">Android / Android 16</div><div class="device-meta">активность: 31 минуту назад</div></div></div></div>
 </div>
 </div>
 
