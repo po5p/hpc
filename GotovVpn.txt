@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/po5p/hpc/main/sillyvpn.qwaqdev.ru_sub_365e0df7-98d0-47b2-bf_Subscription.txt
-https://raw.githubusercontent.com/po5p/hpc/main/sub.datanode-internal.net_FcQe0weSX1Qbc_-j_Subscription.txt
+https://raw.githubusercontent.com/po5p/hpc/main/sillyvpn.qwaqdev.ru_sub_365e0df7-98d0-47b2-bf_Subscription.txt|SILLYVPN
+https://raw.githubusercontent.com/po5p/hpc/main/sub.datanode-internal.net_FcQe0weSX1Qbc_-j_Subscription.txt|FastUnlimited
