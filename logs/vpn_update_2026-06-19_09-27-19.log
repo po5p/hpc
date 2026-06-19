@@ -1,0 +1,138 @@
+[09:27:19] ==============================================
+[09:27:20] ЗАПУСК ОБНОВЛЕНИЯ VPN
+[09:27:20] ==============================================
+[09:27:20] Дата: 19.06.2026 09:27:20
+[09:27:20] GitHub: po5p/hpc
+[09:27:20] 
+[09:27:20] ----------------------------------------------
+[09:27:20] ШАГ 1: Получение списка подписок
+[09:27:20] ----------------------------------------------
+[09:27:20] Статус: 200 (УСПЕШНО), размер: 699 байт
+[09:27:20] Содержимое:
+[09:27:20]   • https://sillyvpn.qwaqdev.ru/sub/365e0df7-98d0-47b2-bfef-09a7100227f6|SILLYVPN
+[09:27:20]   • https://sub.datanode-internal.net/FcQe0weSX1Qbc_-j|FastUnlimited
+[09:27:20]   • https://cdn-biz.ru/sub/1/5609a383-a603-46e8-8de5-a31bab826871|Yowet7
+[09:27:21]   • https://sillyvpn.qwaqdev.ru/sub/ff05c08b-dc28-4263-b585-df08338de6fb|SillyVPN
+[09:27:21]   • https://sub.stichvpn.store/2285n15fMFhsVcM5|stichvpn
+[09:27:21]   • https://subs.superbuba.top/xj1-N_ZgFtCL-tHz|Буба
+[09:27:21]   • https://sub.xexvpn.ru/sub-free-lte/CL7ELMBTUH/|xex
+[09:27:21]   • https://sub.caladantech.net/Wvu_tj_Hjn1V-_E1|HipVpn
+[09:27:21]   • https://sub.cvedcvpn.ru/YfWj6Po5X88zx6Qc|okak67
+[09:27:21]   • https://sub.nosok-top.com/0Zxj0TRZPY-9NNf5|Nosok
+[09:27:21]   • https://sub.myxasecure.space/9KLJF4vNSGCa5xSE|okak67
+[09:27:21]   • https://sub.cvedcvpn.ru/DfJ0DSUqAQe1twyL|Cvedcvpn
+[09:27:21] 
+[09:27:21] ----------------------------------------------
+[09:27:21] ШАГ 2: Клонирование репозитория
+[09:27:21] ----------------------------------------------
+[09:27:22] Статус: УСПЕШНО
+[09:27:22] 
+[09:27:22] ----------------------------------------------
+[09:27:23] ШАГ 3: Обработка подписок
+[09:27:23] ----------------------------------------------
+[09:27:23] 
+[09:27:23] Подписка #1: SILLYVPN
+[09:27:23]   Файл: sillyvpn.qwaqdev.ru_sub_365e0df7-98d0-47b2-bf_Subscription.txt
+[09:27:24]   Загрузка: УСПЕШНО (25318 байт)
+[09:27:24]   Формат: JSON
+[09:27:24]   Конфигов (JSON): 19
+[09:27:24] 
+[09:27:24] Подписка #2: FastUnlimited
+[09:27:24]   Файл: sub.datanode-internal.net_FcQe0weSX1Qbc_-j_Subscription.txt
+[09:27:25]   Загрузка: УСПЕШНО (36481 байт)
+[09:27:25]   Формат: JSON
+[09:27:25]   Конфигов (JSON): 15
+[09:27:25] 
+[09:27:25] Подписка #3: Yowet7
+[09:27:25]   Файл: cdn-biz.ru_sub_1_5609a383-a603-46e8-8de5-a31b_Subscription.txt
+[09:27:26]   Загрузка: УСПЕШНО (173295 байт)
+[09:27:26]   Формат: JSON
+[09:27:26]   Конфигов (JSON): 46
+[09:27:27] 
+[09:27:27] Подписка #4: SillyVPN
+[09:27:27]   Файл: sillyvpn.qwaqdev.ru_sub_ff05c08b-dc28-4263-b5_Subscription.txt
+[09:27:27]   Загрузка: УСПЕШНО (25318 байт)
+[09:27:27]   Формат: JSON
+[09:27:27]   Конфигов (JSON): 19
+[09:27:27] 
+[09:27:28] Подписка #5: stichvpn
+[09:27:28]   Файл: sub.stichvpn.store_2285n15fMFhsVcM5_Subscription.txt
+[09:27:28]   Загрузка: УСПЕШНО (31433 байт)
+[09:27:28]   Формат: JSON
+[09:27:28]   Конфигов (JSON): 27
+[09:27:29] 
+[09:27:29] Подписка #6: Буба
+[09:27:29]   Файл: subs.superbuba.top_xj1-N_ZgFtCL-tHz_Subscription.txt
+[09:27:30]   Загрузка: УСПЕШНО (78515 байт)
+[09:27:30]   Формат: JSON
+[09:27:30]   Конфигов (JSON): 34
+[09:27:30] 
+[09:27:30] Подписка #7: xex
+[09:27:30]   Файл: sub.xexvpn.ru_sub-free-lte_CL7ELMBTUH_Subscription.txt
+[09:27:31]   Загрузка: УСПЕШНО (129880 байт)
+[09:27:31]   Формат: Base64 → vless
+[09:27:31]   Конфигов: VL=306 VM=0 TR=0 SS=612 (всего: 918)
+[09:27:32] 
+[09:27:32] Подписка #8: HipVpn
+[09:27:32]   Файл: sub.caladantech.net_Wvu_tj_Hjn1V-_E1_Subscription.txt
+[09:27:33]   Загрузка: УСПЕШНО (20022 байт)
+[09:27:33]   Формат: JSON
+[09:27:33]   Конфигов (JSON): 17
+[09:27:33] 
+[09:27:33] Подписка #9: okak67
+[09:27:33]   Файл: sub.cvedcvpn.ru_YfWj6Po5X88zx6Qc_Subscription.txt
+[09:27:34]   Загрузка: УСПЕШНО (3800 байт)
+[09:27:34]   Формат: Base64 → vless
+[09:27:34]   Конфигов: VL=8 VM=0 TR=0 SS=16 (всего: 24)
+[09:27:35] 
+[09:27:35] Подписка #10: Nosok
+[09:27:35]   Файл: sub.nosok-top.com_0Zxj0TRZPY-9NNf5_Subscription.txt
+[09:27:36]   Загрузка: УСПЕШНО (4124 байт)
+[09:27:36]   Формат: JSON
+[09:27:36]   Конфигов (JSON): 3
+[09:27:36] 
+[09:27:36] Подписка #11: okak67
+[09:27:36]   Файл: sub.myxasecure.space_9KLJF4vNSGCa5xSE_Subscription.txt
+[09:27:37]   Загрузка: УСПЕШНО (18864 байт)
+[09:27:37]   Формат: JSON
+[09:27:37]   Конфигов (JSON): 16
+[09:27:37] 
+[09:27:37] Подписка #12: Cvedcvpn
+[09:27:37]   Файл: sub.cvedcvpn.ru_DfJ0DSUqAQe1twyL_Subscription.txt
+[09:27:38]   Загрузка: УСПЕШНО (3800 байт)
+[09:27:38]   Формат: Base64 → vless
+[09:27:38]   Конфигов: VL=8 VM=0 TR=0 SS=16 (всего: 24)
+[09:27:38] 
+[09:27:38] ----------------------------------------------
+[09:27:38] ШАГ 4: Сводный файл
+[09:27:38] ----------------------------------------------
+[09:27:38] Ссылки в GotovVpn.txt:
+[09:27:38]   • https://raw.githubusercontent.com/po5p/hpc/main/sillyvpn.qwaqdev.ru_sub_365e0df7-98d0-47b2-bf_Subscription.txt|SILLYVPN
+[09:27:38]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.datanode-internal.net_FcQe0weSX1Qbc_-j_Subscription.txt|FastUnlimited
+[09:27:38]   • https://raw.githubusercontent.com/po5p/hpc/main/cdn-biz.ru_sub_1_5609a383-a603-46e8-8de5-a31b_Subscription.txt|Yowet7
+[09:27:38]   • https://raw.githubusercontent.com/po5p/hpc/main/sillyvpn.qwaqdev.ru_sub_ff05c08b-dc28-4263-b5_Subscription.txt|SillyVPN
+[09:27:38]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.stichvpn.store_2285n15fMFhsVcM5_Subscription.txt|stichvpn
+[09:27:38]   • https://raw.githubusercontent.com/po5p/hpc/main/subs.superbuba.top_xj1-N_ZgFtCL-tHz_Subscription.txt|Буба
+[09:27:39]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.xexvpn.ru_sub-free-lte_CL7ELMBTUH_Subscription.txt|xex
+[09:27:39]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.caladantech.net_Wvu_tj_Hjn1V-_E1_Subscription.txt|HipVpn
+[09:27:39]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.cvedcvpn.ru_YfWj6Po5X88zx6Qc_Subscription.txt|okak67
+[09:27:39]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.nosok-top.com_0Zxj0TRZPY-9NNf5_Subscription.txt|Nosok
+[09:27:39]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.myxasecure.space_9KLJF4vNSGCa5xSE_Subscription.txt|okak67
+[09:27:39]   • https://raw.githubusercontent.com/po5p/hpc/main/sub.cvedcvpn.ru_DfJ0DSUqAQe1twyL_Subscription.txt|Cvedcvpn
+[09:27:39] 
+[09:27:39] ----------------------------------------------
+[09:27:39] ШАГ 5: Отправка в GitHub
+[09:27:39] ----------------------------------------------
+[09:27:41] Результат: УСПЕШНО
+[09:27:41] 
+[09:27:41] ==============================================
+[09:27:41] ИТОГИ
+[09:27:41] ==============================================
+[09:27:41] Обработано: 12 | Пропущено: 0
+[09:27:41]   VLESS:  322
+[09:27:41]   SS:     644
+[09:27:41]   JSON:   196
+[09:27:41]   ─────────────────
+[09:27:41]   ВСЕГО:  1162
+[09:27:41] Сводный файл: https://raw.githubusercontent.com/po5p/hpc/main/GotovVpn.txt
+[09:27:41] ==============================================
