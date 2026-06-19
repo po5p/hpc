@@ -4,7 +4,23 @@
 #profile-web-page-url: https://t.me/freevpnconfigh
 #announce: ВНИМАНИЕ: ИСПОЛЬЗУЙТЕ ПОДПИСКУ ТОЛЬКО ДЛЯ ОБХОДА БЕЛЫХ СПИСКОВ, И В РАЗУМНЫХ ЦЕЛЯХ, УВАЖАЙТЕ ЧЮЖОЙ ТРУД❗Бесплатные конфигурации ➡️@freevpnconfigh⬅️
 
+vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&fp=firefox&allowinsecure=0&type=xhttp&sni=fi1.foxnezia.dev&sid=4fd3840415403f31#%F0%9F%87%A9%F0%9F%87%AA+LTE+43+%7C+%D1%82%D0%B3%D0%BA%3A
 
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.14:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%+25821%F0%9F%87%B7%F0%9F%87%BA
+
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.65:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%+27363%F0%9F%87%B7%F0%9F%87%BA
+
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.34:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%+25037%F0%9F%87%B7%F0%9F%87%BA
+
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.39:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%40+23736%F0%9F%87%B7%F0%9F%87%BA
+
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.61:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%+29368%F0%9F%87%B7%F0%9F%87%BA
+
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.112:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA%40+22476%F0%9F%87%B7%F0%9F%87%BA
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.112:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA+O%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%234
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.51:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA+O%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%236
+vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@213.219.212.110:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA+O%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%235
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.39:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#%F0%9F%87%B7%F0%9F%87%BA+O%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%238
 
 vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.112:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru#1
 
